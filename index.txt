@@ -2,9 +2,15 @@ dev
 dev1
 dev2
 <<<<<<< HEAD
+<<<<<<< HEAD
 dev3
 dev4
 =======
 
 master
 >>>>>>> master
+=======
+
+master
+master
+>>>>>>> c36b6f028dcf2cef2a26f4b180daba6504a8b38c
