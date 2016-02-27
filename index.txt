@@ -1,5 +1,10 @@
 dev
 dev1
 dev2
+<<<<<<< HEAD
 dev3
 dev4
+=======
+
+master
+>>>>>>> master
